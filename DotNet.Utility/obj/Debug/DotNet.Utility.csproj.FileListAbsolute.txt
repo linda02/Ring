@@ -1,0 +1,15 @@
+E:\code\Ring\DotNet.Utility\bin\Debug\DotNet.Utility.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\DotNet.Utility.pdb
+E:\code\Ring\DotNet.Utility\obj\Debug\DotNet.Utility.csprojResolveAssemblyReference.cache
+E:\code\Ring\DotNet.Utility\obj\Debug\DotNet.Utility.dll
+E:\code\Ring\DotNet.Utility\obj\Debug\DotNet.Utility.pdb
+E:\code\Ring\DotNet.Utility\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\Newtonsoft.Json.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\NPOI.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\NPOI.OOXML.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\NPOI.OpenXml4Net.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\Newtonsoft.Json.xml
+E:\code\Ring\DotNet.Utility\bin\Debug\NPOI.xml
+E:\code\Ring\DotNet.Utility\bin\Debug\log4net.dll
+E:\code\Ring\DotNet.Utility\bin\Debug\log4net.xml

@@ -1,0 +1,5 @@
+E:\code\Ring\DotNet.Model\bin\Debug\DotNet.Model.dll
+E:\code\Ring\DotNet.Model\bin\Debug\DotNet.Model.pdb
+E:\code\Ring\DotNet.Model\obj\Debug\DotNet.Model.csprojResolveAssemblyReference.cache
+E:\code\Ring\DotNet.Model\obj\Debug\DotNet.Model.dll
+E:\code\Ring\DotNet.Model\obj\Debug\DotNet.Model.pdb

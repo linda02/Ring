@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ring", "Ring\Ring.csproj", "{EF98392C-1606-40A9-83D6-EBCAA6298FC8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FFAAC419-FE11-4054-9532-0A547ECEB730} = {FFAAC419-FE11-4054-9532-0A547ECEB730}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Utility", "DotNet.Utility\DotNet.Utility.csproj", "{FFAAC419-FE11-4054-9532-0A547ECEB730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Model", "DotNet.Model\DotNet.Model.csproj", "{00266664-A86F-45BC-A34A-93095EA82EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF98392C-1606-40A9-83D6-EBCAA6298FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF98392C-1606-40A9-83D6-EBCAA6298FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF98392C-1606-40A9-83D6-EBCAA6298FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF98392C-1606-40A9-83D6-EBCAA6298FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAAC419-FE11-4054-9532-0A547ECEB730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAAC419-FE11-4054-9532-0A547ECEB730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAAC419-FE11-4054-9532-0A547ECEB730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAAC419-FE11-4054-9532-0A547ECEB730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00266664-A86F-45BC-A34A-93095EA82EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00266664-A86F-45BC-A34A-93095EA82EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00266664-A86F-45BC-A34A-93095EA82EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00266664-A86F-45BC-A34A-93095EA82EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
